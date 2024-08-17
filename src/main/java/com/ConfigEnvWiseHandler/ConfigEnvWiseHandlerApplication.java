@@ -9,5 +9,4 @@ public class ConfigEnvWiseHandlerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigEnvWiseHandlerApplication.class, args);
 	}
-
 }
